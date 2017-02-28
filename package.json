@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "css utils",
   "main": "index.js",
-  "repository": {},
+  "repository": {
+    "url": "https://github.com/ryli/jinghong",
+    "type": "git"
+  },
   "author": "ryli",
   "license": "MIT"
 }
