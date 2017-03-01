@@ -1,11 +1,19 @@
 {
   "name": "jinghong",
   "version": "0.0.1",
-  "description": "css utils",
-  "main": "index.js",
+  "description": "a css library for quick layout, especially for flow layout. via zhangxinxu's zxx.lib.css",
+  "keywords": [
+    "css",
+    "snippets",
+    "utils"
+  ],
+  "main": "jinghong.css",
   "repository": {
     "url": "https://github.com/ryli/jinghong",
     "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryli/jinghong/issues"
   },
   "author": "ryli",
   "license": "MIT"
